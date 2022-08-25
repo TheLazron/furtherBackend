@@ -1,0 +1,11 @@
+{
+    "env":{
+       "OPENCAGE_API_KEY":"a6e74feb544b4d57b42e39a0da0a1655",
+       "DB_USER":"admin-aryaman",
+       "DB_PASS":"april202018",
+       "DB_NAME":"further",
+       "JWT_KEY":"supersecret_dont_share"
+    }   
+
+
+}
